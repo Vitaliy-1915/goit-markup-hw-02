@@ -19,21 +19,12 @@ body {
   color: #212121;
 }
 
-.logo:hover,
-.logo:focus,
 .nav-list-link:hover,
 .nav-list-link:focus,
 .header-contacts-link-mail:hover,
 .header-contacts-link-mail:focus,
 .header-contacts-link-tel:hover,
-.header-contacts-link-tel:focus,
-.footer-address-link:hover,
-.footer-address-link:focus,
-.footer-address-link-mail:hover,
-.footer-address-link-mail:focus,
-.footer-address-link-tel:hover,
-.footer-address-link-tel:focus {
-  text-decoration: underline;
+.header-contacts-link-tel:focus {
   color: var(--active-link-color);
 }
 
